@@ -1,10 +1,28 @@
-<h1 align="center">Hi 👋, I'm IZUKA</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+# 👋 Salut, moi c’est IZUKA_ !
 
-- 🌱 I’m currently learning **JavaScript, React, Tailwind**
+💻 Développeur front-end passionné, j’aime créer des interfaces modernes, performantes et responsives avec des outils comme **Astro.JS**, **Tailwind CSS**, et **JavaScript**.
 
-<p align="left">
-</p>
+## 🚀 Compétences techniques
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+- ⚡ **Astro.JS** – Framework statique moderne que j'utilise pour construire des sites ultra rapides.
+- 🎨 **HTML5** / **CSS3** – Base solide pour tout projet web.
+- 🧠 **JavaScript (ES6+)** – Dynamiser les interfaces et gérer l’interactivité.
+- 🌬️ **Tailwind CSS** – Pour un style rapide, élégant et cohérent.
+- 🛠️ **Responsive Design** – Toujours adapté à tous les supports.
+
+## 🌍 Ce que je fais
+
+- Création de sites web statiques ou dynamiques avec **Astro**
+- Intégration UI pixel perfect à partir de maquettes ou d'idées
+- Optimisation des performances web et du SEO
+- Déploiement sur des plateformes comme Vercel ou Netlify
+
+## 📊 Stats GitHub
+
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=PandaaxDvlpt&show_icons=true&theme=radical)
+
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaaxDvlpt&layout=compact&theme=radical)
+
+---
+
+✨ Toujours en quête d’apprendre, de tester de nouveaux outils et de monter en compétences. Dispo pour collaborer sur des projets cools ! 🚀
