@@ -15,7 +15,6 @@
 - Création de sites web statiques ou dynamiques avec **Astro**
 - Intégration UI pixel perfect à partir de maquettes ou d'idées
 - Optimisation des performances web et du SEO
-- Déploiement sur des plateformes comme Vercel ou Netlify
 
 ## 📊 Stats GitHub
 
